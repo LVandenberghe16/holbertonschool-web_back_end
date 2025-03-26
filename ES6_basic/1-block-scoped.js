@@ -3,7 +3,7 @@ export default function taskBlock(trueOrFalse) {
   const task2 = true;
 
   if (trueOrFalse) {
-    //empty
+    // no declaration
   }
   return [task, task2];
 }
