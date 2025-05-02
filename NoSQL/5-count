@@ -1,2 +1,3 @@
-//comment
+// compter le nombre de document
+
 db.school.count({})
